@@ -1,0 +1,23 @@
+Comandos para o git
+
+git log => para ver o log de comit
+
+git branch => lista todos os branch e o que estiver com o asterisco é o que estamos no momento
+
+git  status  => para ver as mudanças
+
+git add -A => adiciona todos os arquivos que foram modificados
+
+git add => depois do add coloca o arquivo específico que queira adicionar
+
+git commit -am "aqui digita o que fez" => para fazer um comit ou seja fazer as alterações pode usar somente o 'm'
+
+git reset -soft=> existe o comando --soft, volta para um estado antes do comit, --mixed ou --hard que volta para o momento em específic
+
+git branch => Comando para listar todos os branch e o que está em asteristo é o que está
+
+git branch =>Criar um novo branch depoid do branch coloca o nome que vai ser o branch
+
+git checkout => depois de checkout coloca o nome do branch que vai trocar ou seja assumir
+
+git diff => Ver o que foi mudado no projeto
